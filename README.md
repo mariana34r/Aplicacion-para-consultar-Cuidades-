@@ -43,7 +43,7 @@ En esta opcion el ususario puede buscar una opcion en especifico
 ## Capturas de la Página 📷
 
 ### Captura de la teminal en visual estudio:
-![Captura del menu en visual estudio](https://github.com/user-attachments/assets/f86071e4-15ae-4d6c-b44e-d120fd4f9107)
+![Captura del menu en visual estudio](https://github.com/user-attachments/assets/d20b6e64-315f-4979-acc4-ca09f48e2a0e)
 
 
 
