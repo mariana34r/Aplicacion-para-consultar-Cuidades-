@@ -18,7 +18,12 @@ def editar_city():
         if str(cd_postal) in data["Ciudades"]:
             while True:
                 menu()
-                op = int(input("Seleccione una opcion: "))
+                while True:
+                    try:
+                        op = int(input("Seleccione una opcion: "))
+                        break
+                    except Exception:
+                        print("opcion no validaa")
                 if op == 1:
                     nuevo = str(input("Digite el nuevo nombre de la ciudad: "))
                     data["Ciudades"][str(cd_postal)]["Nombre ciudad"] = nuevo
@@ -30,7 +35,7 @@ def editar_city():
                     gg.guardar_city(data)
                     
                 elif op == 3:
-                    nuevo = str(input("Digite pais de la ciudad: "))
+                    nuevo = (input("Digite pais de la ciudad: "))
                     data["Ciudades"][str(cd_postal)]["Pais"] = nuevo
                     gg.guardar_city(data)
                     
