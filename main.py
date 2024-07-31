@@ -4,7 +4,7 @@ import edit_city
 import mostrar_city
 import mostrar_todas
 
-
+print("hola mundo")
 print("Binevenido :)")
 print("Ingrese su Nombre Usuario")
 Nombre=input("-")
@@ -20,11 +20,9 @@ while True:
         if opc == '1':
             letreros.letrero1()
             regis_city.registro()
-           
         elif opc == '2':
             letreros.letrero2()
             edit_city.editar_city()
-           
         elif opc == '3':
             letreros.letrero3()
             mostrar_todas.todo()
