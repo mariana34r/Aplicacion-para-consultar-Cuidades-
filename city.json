@@ -5,6 +5,12 @@
             "Codigo Postal": 105,
             "Poblacion": 656,
             "Pais": "Colombia"
+        },
+        "22": {
+            "Nombre ciudad": "Bucaramanga",
+            "Codigo Postal": 22,
+            "Poblacion": 2222222,
+            "Pais": "Colombia"
         }
     }
 }

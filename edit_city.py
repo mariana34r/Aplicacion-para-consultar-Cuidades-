@@ -30,7 +30,7 @@ def editar_city():
                     gg.guardar_city(data)
                     
                 elif op == 3:
-                    nuevo = int(input("Digite pais de la ciudad: "))
+                    nuevo = str(input("Digite pais de la ciudad: "))
                     data["Ciudades"][str(cd_postal)]["Pais"] = nuevo
                     gg.guardar_city(data)
                     

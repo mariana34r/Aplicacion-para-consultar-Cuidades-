@@ -1,5 +1,6 @@
 import letreros
 import regis_city
+import edit_city
 
 
 
@@ -21,6 +22,7 @@ while True:
            
         elif opc == '2':
             letreros.letrero2()
+            edit_city.editar_city()
            
         elif opc == '3':
             letreros.letrero3()
