@@ -44,6 +44,11 @@ En esta opcion el ususario puede buscar una opcion en especifico
 
 ### Captura de la teminal en visual estudio:
 ![Captura del menu en visual estudio](https://github.com/user-attachments/assets/d20b6e64-315f-4979-acc4-ca09f48e2a0e)
+![Captura del menu en visual estudio](https://github.com/user-attachments/assets/5d0495a4-1a56-4917-a181-1d9f0af612ee)
+![Captura del menu en visual estudio](https://github.com/user-attachments/assets/39088683-afae-4b12-8324-ed70ad8ee9f6)
+
+
+
 
 
 
