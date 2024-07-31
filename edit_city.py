@@ -42,6 +42,8 @@ def editar_city():
                 elif op == 4:
                     print("Saliendo...")
                     break
+                else:
+                    print("opcion invalida")
             break
         elif cd_postal == 0:
             print("Saliendo...")
