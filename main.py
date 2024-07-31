@@ -5,7 +5,7 @@ import mostrar_city
 import mostrar_todas
 
 
-print("jajajajja")
+print("lololo")
 print("hola mundo")
 print("Binevenido :)")
 print("Ingrese su Nombre Usuario")
