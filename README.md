@@ -25,12 +25,6 @@ Al princio encontrara el inicio de seccion
 
 Luego el ususario tendra la opciones de:
 
-1 Crear cuidades
-2.Editar Cuidades
-3.Mostrar Cuidades
-4.Buscar Cuidades
-5.Salir
-
 1 Crear cuidades:
 En esta opcion el usuario podra añadir una nueva cuidad
 
