@@ -3,8 +3,9 @@
         "105": {
             "Nombre ciudad": "Medellin",
             "Codigo Postal": 105,
-            "Poblacion": 78000,
-            "Pais": "Colombia"
+            "Poblacion": 656,
+            "Pais": "Colombia",
+            "Nombre Ciudad": "Paz de Ariporo"
         }
     }
 }
