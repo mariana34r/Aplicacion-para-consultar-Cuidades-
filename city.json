@@ -17,6 +17,18 @@
             "Codigo Postal": 999999,
             "Poblacion": 33333,
             "Pais": "aaaaaaaaa"
+        },
+        "39": {
+            "Nombre ciudad": "Cartageeeeneeeeeeeena",
+            "Codigo Postal": 39,
+            "Poblacion": 100000,
+            "Pais": "Colombia"
+        },
+        "34": {
+            "Nombre ciudad": "Bogota",
+            "Codigo Postal": 34,
+            "Poblacion": 2000000,
+            "Pais": "Colombia"
         }
     }
 }
