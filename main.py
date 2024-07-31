@@ -10,7 +10,7 @@ print("Binevenido",Nombre)
 while True:
     print("Que desea hacer ")
     print("--------------------------")
-    print("\n.1 Crear cuidades\n2.Editar Cuidades\n3.Mostrar Cuidades\n4.Buscar Cuidades\n5.Salir")
+    print("1 Crear cuidades\n2.Editar Cuidades\n3.Mostrar Cuidades\n4.Buscar Cuidades\n5.Salir")
     print("--------------------------")
     print("Escoga una Opcion")
     try:
@@ -37,5 +37,6 @@ while True:
     
     except Exception :
         print("Ingrese una opcion valida")
+        
         
         
