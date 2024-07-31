@@ -25,4 +25,3 @@ def registro():
         data["Ciudades"][cd_postal] = datos
         gg.guardar_city(data)
         
-registro()
