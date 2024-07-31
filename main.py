@@ -2,6 +2,7 @@ import letreros
 import regis_city
 import edit_city
 import mostrar_city
+import mostrar_todas
 
 
 
@@ -27,7 +28,7 @@ while True:
            
         elif opc == '3':
             letreros.letrero3()
-            
+            mostrar_todas.todo()
             
         elif opc == '4':
             letreros.letrero4()
