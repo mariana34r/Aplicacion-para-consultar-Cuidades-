@@ -4,7 +4,12 @@ def todo():
         data = gg.cargar_city()
         print("1. Para ver todas las ciudades")
         print("2. Para salir")
-        opc = int(input("DIgite una opcion: "))
+        while True:
+            try:
+                opc = int(input("DIgite una opcion: "))
+                break
+            except Exception:
+                print("opcion no valida")
         if opc == 1:
             for m, n in data.items():
                 for s, j in n.items():

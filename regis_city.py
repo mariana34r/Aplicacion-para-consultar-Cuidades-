@@ -14,10 +14,12 @@ def registro():
     else:
         datos = {}
         datos["Nombre ciudad"] = str(input("Digite el nombre de  la ciudad :"))
+        print("****************************************************************")
         datos["Codigo Postal"] = cd_postal
         while True:
             try:
                 datos["Poblacion"] = int(input("Digite la poblacion de  la ciudad :"))
+                print("***************************************************************")
                 break
             except Exception:
                 print("Digite bien los datos")

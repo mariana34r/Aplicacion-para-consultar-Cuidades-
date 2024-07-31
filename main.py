@@ -1,9 +1,12 @@
 import letreros
 import regis_city
 import edit_city
+import mostrar_city
+import mostrar_todas
 
 
 print("jajajajja")
+print("hola mundo")
 print("Binevenido :)")
 print("Ingrese su Nombre Usuario")
 Nombre=input("-")
@@ -19,17 +22,16 @@ while True:
         if opc == '1':
             letreros.letrero1()
             regis_city.registro()
-           
         elif opc == '2':
             letreros.letrero2()
             edit_city.editar_city()
-           
         elif opc == '3':
             letreros.letrero3()
+            mostrar_todas.todo()
             
-           
         elif opc == '4':
             letreros.letrero4()
+            mostrar_city.mostra_ciudad()
             
         elif opc == '5':
             letreros.letrero5()

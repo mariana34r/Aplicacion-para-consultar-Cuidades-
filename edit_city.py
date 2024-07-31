@@ -33,6 +33,7 @@ def editar_city():
                     while True:
                         try:
                             nuevo = int(input("Digite la nuevo poblacion de la ciudad: "))
+                            print("**********************************")
                             data["Ciudades"][str(cd_postal)]["Poblacion"] = nuevo
                             gg.guardar_city(data)
                             break
@@ -42,6 +43,7 @@ def editar_city():
                     
                 elif op == 3:
                     nuevo = (input("Digite pais de la ciudad: "))
+                    print("******************************")
                     data["Ciudades"][str(cd_postal)]["Pais"] = nuevo
                     gg.guardar_city(data)
                     
