@@ -6,6 +6,7 @@ import mostrar_todas
 
 
 print("aliriooooooooooo")
+print("holaaaaaaaaaa ")
 print("Binevenido :)")
 print("Ingrese su Nombre Usuario")
 Nombre=input("-")
