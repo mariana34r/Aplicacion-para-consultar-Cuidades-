@@ -25,7 +25,6 @@ while True:
             
         elif opc == '5':
             letreros.letrero5()
-           
             break  
         else:
             print("Opción no válida. Por favor, ingrese un número entre 1 y 5.")
